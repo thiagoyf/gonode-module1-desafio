@@ -18,7 +18,7 @@ Deve haver um middleware que é chamado nas rotas /major e /minor e checa se a 
 
 ## Entrega
 
-Esse desafio não precisa ser entregue e não receberá correção, mas você pode ver o resultado do código do desafio feito por mim aqui: https://github.com/Rocketseat/bootcamp-n odejs-desafio-01
+Esse desafio não precisa ser entregue e não receberá correção, mas você pode ver o resultado do código do desafio feito por mim aqui: https://github.com/Rocketseat/bootcamp-nodejs-desafio-01
 
 PS.: Tente fazer o desafio sem olhar o código antes :)
 
